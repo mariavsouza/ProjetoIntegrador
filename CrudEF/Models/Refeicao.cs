@@ -6,7 +6,7 @@ public class Refeicao
 
     public int UsuarioId { get; set; }
 
-    public string Alimentos { get; set; } 
+    public string? Alimentos { get; set; } 
 
     public string Avaliacao { get; set; } = "";
 
